@@ -1,4 +1,4 @@
-# Ethereum Voting DApp – Solidity, Hardhat, MetaMask, Ethers.js
+# Ethereum Voting DApp (Solidity, Hardhat, MetaMask, Ethers.js)
 
 A voting DApp built with **Solidity** and **Hardhat** (MetaMask/**Ethers.js**). It lets an admin start/end a vote, enforces one-account-one-vote, and displays live tallies on a local or test network.
 
